@@ -28,7 +28,7 @@
 
 ### `⚙️ Configuraciones ⚙️`
 - Cambiar Los Numeros De Los Owner [aqui](https://github.com/AzamiJs/CuriosityBot-MD/blob/main/config.js#L6)
-- Puede Cambiar A La Última Versión De Baileys Editando El package.json [aqui](https://github.com/AzamiJs/CuriosityBot-MD/blob/main/package.json#L42)
+- Puede Cambiar A La Última Versión De Baileys Editando El package.json [aqui](https://github.com/CristianJ0P/ToxicBOT-MD/blob/main/package.json#L42)
 ***
 
 - #### 🚩 Instalacion Automatica Por Termux
@@ -60,7 +60,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/AzamiJs/CuriosityBot-MD && cd CuriosityBot-MD && yarn install && npm install
+git clone https://github.com/CristianJ0P/ToxicBOT-MD && cd ToxicBOT-MD && yarn install && npm install
 ```
 
 ```bash
@@ -78,14 +78,14 @@ npm start
 > Escribe Estos Comandos Uno Por Uno
 ```bash
 > cd
-> cd CuriosityBot-MD
+> cd ToxicBOT-MD
 > npm start
 ```
 
 - #### 🚩 Obtener Otro Codigo Qr
 > 𝙴𝚂𝙲𝚁𝙸𝙱𝙴 𝙴𝚂𝚃𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚄𝙽𝙾 𝙿𝙾𝚁 𝚄𝙽𝙾:
 ```bash
-> cd CuriosityBot-MD
+> cd ToxicBOT-MD
 > rm -rf sessions
 > npm start
 ```
